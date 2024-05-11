@@ -15,11 +15,3 @@ Welcome to the Helene Mazgaj Portfolio Website repository! This website showcase
 - PHP: Backend server-side scripting for dynamic content generation.
 
 🔐 **Admin Space:** Includes an admin space for easy content management. Helene can easily update and manage the website's content without needing to modify the code directly.
-
-## Getting Started
-
-To get a copy of this project up and running on your local machine for development and testing purposes, follow these steps:
-
-1. **Clone the Repository:** 
-   ```bash
-   git clone https://github.com/your-username/helen-mazgaj-portfolio.git
